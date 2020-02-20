@@ -1,6 +1,5 @@
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/anuraj/devskim)
 ![Docker Pulls](https://img.shields.io/docker/pulls/anuraj/devskim.svg)
-![GitHub](https://img.shields.io/github/license/anuraj/devskim)
 
 # DevSkim Docker Container
 
