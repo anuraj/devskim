@@ -3,7 +3,7 @@
 
 # DevSkim Docker Container
 
-The unofficial image for Microsoft DevSkim - DevSkim is a framework of IDE extensions and Language analyzers that provide inline security analysis in the dev environment as the developer writes code. More details about DevSkim - https://github.com/microsoft/DevSkim
+The unofficial Docker image for Microsoft DevSkim - DevSkim is a framework of IDE extensions and Language analyzers that provide inline security analysis in the dev environment as the developer writes code. More details about DevSkim - https://github.com/microsoft/DevSkim
 
 ### Basic Usage
 
