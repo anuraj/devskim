@@ -7,8 +7,10 @@ The unofficial image for Microsoft DevSkim - DevSkim is a framework of IDE exten
 
 ### Basic Usage
 
-docker run -v C:\Code\:/code anuraj/devskim:0.1.11 analyze /code
+You can run the following command to analyze your source code with docker image.
+
+`docker run -v C:\Code\:/code anuraj/devskim:latest analyze /code`
 
 ### Docker Tags
 
-Current tag to track is `0.1.11` which same the latest version of DevSkim CLI tools released
+Current tag to track is `latest` which same the latest version of DevSkim CLI tools released
