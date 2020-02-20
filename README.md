@@ -1,3 +1,7 @@
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/anuraj/devskim)
+![Docker Pulls](https://img.shields.io/docker/pulls/anuraj/devskim.svg)
+![GitHub](https://img.shields.io/github/license/anuraj/devskim)
+
 # DevSkim Docker Container
 
 The unofficial image for Microsoft DevSkim - DevSkim is a framework of IDE extensions and Language analyzers that provide inline security analysis in the dev environment as the developer writes code. More details about DevSkim - https://github.com/microsoft/DevSkim
