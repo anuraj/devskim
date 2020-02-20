@@ -5,6 +5,8 @@
 
 The unofficial Docker image for Microsoft DevSkim - DevSkim is a framework of IDE extensions and Language analyzers that provide inline security analysis in the dev environment as the developer writes code. More details about DevSkim - https://github.com/microsoft/DevSkim
 
+> This image built using DevSkim CLI tools version 0.1.11
+
 ### Basic Usage
 
 You can run the following command to analyze your source code with docker image.
@@ -13,4 +15,4 @@ You can run the following command to analyze your source code with docker image.
 
 ### Docker Tags
 
-Current tag to track is `latest` which same the latest version of DevSkim CLI tools released
+Current tag to track is `latest`.
